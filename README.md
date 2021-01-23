@@ -1,7 +1,8 @@
 # url2text
-Extract text from website<br><br>
+Extract text from website<br>
 <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/url2text?style=plastic">
 <a href="https://pypi.org/project/url2text/"><img alt="PyPI" src="https://img.shields.io/pypi/v/url2text?style=plastic"></a>
+
 Python module to extract text from a website with regular expression features<br>
 Usage:
 ``` python
